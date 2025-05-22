@@ -1,0 +1,21 @@
+.
+├── dist
+│   └── main
+├── environment.yml
+├── estructura.txt
+├── main.py
+├── main.spec
+└── operaciones
+    ├── fun1.py
+    ├── fun2.py
+    ├── fun3.py
+    ├── fun4.py
+    ├── __init__.py
+    └── __pycache__
+        ├── fun1.cpython-311.pyc
+        ├── fun2.cpython-311.pyc
+        ├── fun3.cpython-311.pyc
+        ├── fun4.cpython-311.pyc
+        └── __init__.cpython-311.pyc
+
+4 directories, 15 files
